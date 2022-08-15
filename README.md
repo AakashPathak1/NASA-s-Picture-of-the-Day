@@ -12,6 +12,5 @@ Supports:
  Image: 
  ![Website Image](https://github.com/AakashPathak1/NASA-s-Picture-of-the-Day/blob/main/NASA's%20POTD.png)
 
-LINK TO WEBSITE: https://blueprint-project-2021-tan-theta.sayansisodiya.repl.co/
 
 
